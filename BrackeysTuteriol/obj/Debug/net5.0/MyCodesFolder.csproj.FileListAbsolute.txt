@@ -1,0 +1,16 @@
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\MyCodesFolder.exe
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\MyCodesFolder.deps.json
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\MyCodesFolder.runtimeconfig.json
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\MyCodesFolder.runtimeconfig.dev.json
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\MyCodesFolder.dll
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\ref\MyCodesFolder.dll
+C:\Users\ME\Desktop\MyCodesFolder\bin\Debug\net5.0\MyCodesFolder.pdb
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.csproj.AssemblyReference.cache
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.AssemblyInfoInputs.cache
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.AssemblyInfo.cs
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.csproj.CoreCompileInputs.cache
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.dll
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\ref\MyCodesFolder.dll
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.pdb
+C:\Users\ME\Desktop\MyCodesFolder\obj\Debug\net5.0\MyCodesFolder.genruntimeconfig.cache
